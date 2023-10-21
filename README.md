@@ -9,3 +9,5 @@
   - modern replacement for "ls"
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/blob/master/readme.md)
   - proper fonts for showing icons
+- [Rofi](https://github.com/davatorium/rofi)
+  - customized dmanu manager
